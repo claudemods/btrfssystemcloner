@@ -1,2 +1,2 @@
 # btrfssystemcloner
-tool to clone btrfs as it was with your subvolumes ect into a bootable .img disk
+tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable .img disk
