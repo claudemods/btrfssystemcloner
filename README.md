@@ -2,9 +2,9 @@
   <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">
 </p>
 
-<h1 align="center">(Btrfs System Cloner) tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable .img disk</h1>
+<h1 align="center">(Btrfs System Cloner)</h1>
 
-
+<strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable .img disk<strong>
 
 <div align="center">
 <strong>default subvolumes @ @home @var_cache @var_log</strong><br>
