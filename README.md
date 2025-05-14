@@ -9,6 +9,9 @@ default subvolumes @ @home @var_cache @var_log
     
 ![Screenshot_20250514_020959](https://github.com/user-attachments/assets/3e443753-ddb5-49d1-8627-175a575f6a28)
 
+![Screenshot_20250514_021007](https://github.com/user-attachments/assets/533b96e5-fa59-4fb6-ba88-a48d820f157e)
+
+
 ![Screenshot_20250514_021007](https://github.com/user-attachments/assets/5fc2a1a0-53e2-46c0-a0e8-facf6e4b81bd)
 
 
