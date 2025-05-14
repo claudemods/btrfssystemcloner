@@ -4,7 +4,7 @@
 
 <h1 align="center">(Btrfs System Cloner)</h1>
 
-<strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable uefi.img disk with grub<strong>
+<strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable uefi .img disk with grub<strong>
 
 <div align="center">
 <strong>default subvolumes @ @home @var_cache @var_log</strong><br>
