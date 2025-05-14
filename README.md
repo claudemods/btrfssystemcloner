@@ -1,9 +1,31 @@
-# btrfssystemcloner
-tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable .img disk
-<div align="center">
-default subvolumes @ @home @var_cache @var_log
+<p align="center">
+  <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">
+</p>
+
+<h1 align="center">tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable .img disk</h1>
+
+
 
 <div align="center">
+<strong>default subvolumes @ @home @var_cache @var_log</strong><br>
+
+
+
+<div align="center">
+ <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
+
+ 
+<div align="center">
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
+  </a>
+
+
+  
+[![Version](https://img.shields.io/github/v/release/claudemods/btrfssystemcloner?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/btrfssystemcloner/releases/tag/v1.0)
+
+
+
 
   <div align="center">
     
