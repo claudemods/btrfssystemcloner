@@ -4,7 +4,7 @@ tool to clone your btrfs arch system as it is with your subvolumes and user file
 default subvolumes @ @home @var_cache @var_log
 
 <div align="center">
-as you can see below the project is some what built just need to fix cloning boot and home within the cloning script
+provided script now works just editing it to make it have some eye candy
   <div align="center">
     
 ![Screenshot_20250513_235426](https://github.com/user-attachments/assets/49f7d636-a99f-4a4c-a2bd-1d4987694209)
