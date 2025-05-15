@@ -33,6 +33,8 @@
   <div align="center">
 
 from testing it boots fine ill get to login in when i clone a system im posting
+<div align="center">
+the squashfs command does not use compression and is only temporary whilst building the .img.xz
     
 ![Screenshot_20250515_084904](https://github.com/user-attachments/assets/8e980cf0-7fb3-4354-b1b2-dcafd2e8dae6)
 
