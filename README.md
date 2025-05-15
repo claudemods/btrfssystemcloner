@@ -32,7 +32,7 @@
 
   <div align="center">
 
-from testing it boots fine atleast i will need to check if home is correct next
+from testing it boots fine ill get to login in when i clone a system im posting
     
 ![Screenshot_20250515_084904](https://github.com/user-attachments/assets/8e980cf0-7fb3-4354-b1b2-dcafd2e8dae6)
 
