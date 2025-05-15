@@ -7,14 +7,10 @@
 <strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable uefi .img disk with grub<strong>
 
 <div align="center">
-old arch subvolumes
-  <div align="center">
-  <strong> @ @home @var_cache @var_log</strong><br>
-
 cachyos btrfs subvolumes
-<div align="center">
-<strong>@ (root) / @home / @root / @srv / @cache / @tmp / @log / @var/lib/portables / @var/lib/machines</strong><br>
-<div align="center">
+<p align="center">
+<strong>@root @home @srv @cache @tmp @log @var/lib/portables @var/lib/machines</strong><br>
+<p align="center">
  <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
 
  
