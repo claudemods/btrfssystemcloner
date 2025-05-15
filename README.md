@@ -32,7 +32,7 @@
 
   <div align="center">
 
-  all work from tests
+from testing it boots fine atleast i will need to check if home is correct next
     
 ![Screenshot_20250515_084904](https://github.com/user-attachments/assets/8e980cf0-7fb3-4354-b1b2-dcafd2e8dae6)
 
