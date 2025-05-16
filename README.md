@@ -36,7 +36,12 @@ new btrfs mounts and arch-chroot being removed on arch have complicated this pro
 the squashfs command does not use compression and is only temporary whilst building the .img.xz
     
 
+default btrfs cachyos subvolumes
 
+![Screenshot_archlinux_2025-05-16_23:19:12](https://github.com/user-attachments/assets/de875338-0393-4231-a343-30dcad36a5d1)
+
+
+<div align="center">
 many tests done in last couple days to make this work
   <div align="center">
 today 16-05-2025 its 90% done and should now work fine e.g boot and login
