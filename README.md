@@ -35,13 +35,6 @@ from testing it boots fine ill get to login in when i clone a system im posting
 <div align="center">
 the squashfs command does not use compression and is only temporary whilst building the .img.xz
     
-![Screenshot_20250515_084904](https://github.com/user-attachments/assets/8e980cf0-7fb3-4354-b1b2-dcafd2e8dae6)
-
-
-![Screenshot_20250515_084915](https://github.com/user-attachments/assets/7e060075-0083-4f13-9295-ec9f3ccb9f55)
-
-![Screenshot_20250515_091430](https://github.com/user-attachments/assets/2fd9068a-fbb6-4df2-bf07-fe594d99234a)
-
 
 now to update script after testing the .img
 
