@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Get image path
+read -e -p "Enter path to .img file: " IMAGE_PATH
+
+sudo mkdir /mnt/root
+sudo mkdir /mnt/root/boot/efi
+
+# Verify image exists
+[ ! -f "$IMAGE_PATH" ] && { echo "Error: Image not found!" >&2; exit 1; }
+
+# Setup loop device and mount
+LOOP_DEV=$(sudo losetup -f -P --show "$IMAGE_PATH")
+sudo mount -o "${LOOP_DEV}p1" /mnt/root/boot/efi
+sudo mount -o subvol=@ "${LOOP_DEV}p2" /mnt/root
+
+# Chroot using arch-chroot
+sudo chroot /mnt/root
+
+# Cleanup
+sudo umount -R /mnt
+sudo rm -rf /mnt/root
+sudo rm -rf /mnt/root/boot/efi
+sudo losetup -d "$LOOP_DEV"
