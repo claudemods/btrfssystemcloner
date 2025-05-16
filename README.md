@@ -37,9 +37,9 @@ the squashfs command does not use compression and is only temporary whilst build
     
 
 
-
-![Screenshot_archlinux_2025-05-16_17:34:49](https://github.com/user-attachments/assets/265c892c-cb7b-4d0f-8fad-b0aa609b6b9f)
-many tests done in last couple days to make this work today  16-05-2025 its 90% done and should now work fine e.g boot and login
+many tests done in last couple days to make this work
+  <div align="center">
+today 16-05-2025 its 90% done and should now work fine e.g boot and login
 ![Screenshot_archlinux_2025-05-16_23:13:21](https://github.com/user-attachments/assets/52dcc5a7-4b98-4311-bd30-8171f8f15180)
 
 
