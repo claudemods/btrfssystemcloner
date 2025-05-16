@@ -31,7 +31,7 @@ cachyos btrfs subvolumes
 
   <div align="center">
 
-from testing it boots fine ill get to login in when i clone a system im posting
+new btrfs mounts and arch-chroot being removed on arch have complicated this project please wait!
 <div align="center">
 the squashfs command does not use compression and is only temporary whilst building the .img.xz
     
