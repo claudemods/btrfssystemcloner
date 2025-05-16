@@ -15,7 +15,7 @@ sudo mount -o "${LOOP_DEV}p1" /mnt/root/boot/efi
 sudo mount -o subvol=@ "${LOOP_DEV}p2" /mnt/root
 
 # Chroot using arch-chroot
-sudo arch-chroot /mnt/root
+sudo chroot /mnt/root
 
 # Cleanup
 sudo umount -R /mnt
