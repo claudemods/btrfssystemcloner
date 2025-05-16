@@ -36,7 +36,7 @@ sudo mount --bind /run /mnt/root/run
 sudo chroot /mnt/root /bin/bash -c "
     # Check mounts are there
     if ! mountpoint -q /boot/efi; then
-        echo 'FUCKING ERROR: /boot/efi not mounted' >&2
+        echo 'ERROR: /boot/efi not mounted' >&2
         exit 1
     fi
 
@@ -46,7 +46,7 @@ sudo chroot /mnt/root /bin/bash -c "
         --efi-directory=/boot/efi \
         --bootloader-id=GRUB \
         --recheck || {
-            echo 'FUCKING ERROR: grub-install failed' >&2
+            echo 'ERROR: grub-install failed' >&2
             exit 1
         }
 
