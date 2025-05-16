@@ -46,7 +46,7 @@ many tests done in last couple days to make this work
   <div align="center">
 today 16-05-2025 its 90% done and should now work fine e.g boot and login
     
-![Screenshot_archlinux_2025-05-16_23:13:21](https://github.com/user-attachments/assets/52dcc5a7-4b98-4311-bd30-8171f8f15180)
+![Screenshot_archlinux_2025-05-16_23:22:14](https://github.com/user-attachments/assets/77b1f8f6-1e22-447f-9d65-6b1b6ec3d03b)
 
 
 
