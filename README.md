@@ -43,4 +43,7 @@ the squashfs command does not use compression and is only temporary whilst build
 ![Screenshot_20250515_091430](https://github.com/user-attachments/assets/2fd9068a-fbb6-4df2-bf07-fe594d99234a)
 
 
+now to update script after testing the .img
+
+![Screenshot_archlinux_2025-05-16_17:34:49](https://github.com/user-attachments/assets/265c892c-cb7b-4d0f-8fad-b0aa609b6b9f)
 
