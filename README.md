@@ -40,7 +40,7 @@ the squashfs command does not use compression and is only temporary whilst build
 
 ![Screenshot_archlinux_2025-05-16_17:34:49](https://github.com/user-attachments/assets/265c892c-cb7b-4d0f-8fad-b0aa609b6b9f)
 
-looks healthy just need to put it all as one
+after much tinkering and building hacky script it works just need to put it all as one in the script
 
 ![Screenshot_archlinux_2025-05-16_20:41:29](https://github.com/user-attachments/assets/cb752ad5-3a71-4c26-bafe-06d5a1280555)
 
