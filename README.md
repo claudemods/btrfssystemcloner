@@ -44,7 +44,7 @@ default btrfs cachyos subvolumes
 <div align="center">
 many tests done in last couple days to make this work
   <div align="center">
-today 16-05-2025 its 90% done and should now work fine e.g boot and login
+today in the uk  17:21pm 17-05-2025  its 90% done and boots and you can login
 
 
 
