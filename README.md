@@ -57,6 +57,7 @@ why not test cachyos .img.xz extract and use virt-manager add it like a qcow2
 https://drive.google.com/drive/folders/1pwfOCDvEbV_PSGxp11pfZhx4ivd4OSrM
 
 
+![Screenshot_archlinux-clone_2025-05-17_18:26:08](https://github.com/user-attachments/assets/d7540c86-95f1-4a13-8367-dfc5bc1e939f)
 
 
 
