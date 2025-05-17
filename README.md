@@ -48,7 +48,7 @@ today 16-05-2025 its 90% done and should now work fine e.g boot and login
     
 ![Screenshot_archlinux_2025-05-16_23:25:36](https://github.com/user-attachments/assets/23414c23-25b5-4de1-be6b-6027193d6a18)
 
-new cachyos btrfs .img.xz coming for people to test downlod 2.4gb/ no install method yet but its a 8.9gb system
+new cachyos btrfs .img.xz coming for people to test downlod 2.6gb/ no install method yet but its a 8.9gb system
 
 ![Screenshot_archlinux-clone_2025-05-17_02:31:28](https://github.com/user-attachments/assets/79a3edd9-d212-4248-bd24-7b72bbd2d9e2)
 
