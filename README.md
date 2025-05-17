@@ -52,12 +52,9 @@ today in the uk  17:21pm 17-05-2025  its 90% done and boots and you can login
     
 ![Screenshot_archlinux_2025-05-16_23:25:36](https://github.com/user-attachments/assets/23414c23-25b5-4de1-be6b-6027193d6a18)
 
-new cachyos btrfs .img.xz coming for people to test downlod 2.6gb/ no install method yet but its a 8.9gb system
+test cachyos in a .img.xz for use virt-manager add it like a qcow2
 
-![Screenshot_archlinux-clone_2025-05-17_02:31:28](https://github.com/user-attachments/assets/79a3edd9-d212-4248-bd24-7b72bbd2d9e2)
-
-
-
+https://drive.google.com/drive/folders/1pwfOCDvEbV_PSGxp11pfZhx4ivd4OSrM
 
 
 
