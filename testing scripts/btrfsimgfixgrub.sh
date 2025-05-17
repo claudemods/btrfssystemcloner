@@ -62,13 +62,13 @@ sudo chroot /mnt/root /bin/bash -c "
 
     # Generate config
     grub-mkconfig -o /boot/grub/grub.cfg || {
-        echo 'FUCKING ERROR: grub-mkconfig failed' >&2
+        echo 'ERROR: grub-mkconfig failed' >&2
         exit 1
     }
 
     # Rebuild initramfs
     mkinitcpio -P || {
-        echo 'FUCKING ERROR: mkinitcpio failed' >&2
+        echo 'ERROR: mkinitcpio failed' >&2
         exit 1
     }
 "
