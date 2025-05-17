@@ -52,7 +52,7 @@ today in the uk  17:21pm 17-05-2025  its 90% done and boots and you can login
     
 ![Screenshot_archlinux_2025-05-16_23:25:36](https://github.com/user-attachments/assets/23414c23-25b5-4de1-be6b-6027193d6a18)
 
-test cachyos in a .img.xz for use virt-manager add it like a qcow2
+test cachyos in a .img.xz use virt-manager add it like a qcow2
 
 https://drive.google.com/drive/folders/1pwfOCDvEbV_PSGxp11pfZhx4ivd4OSrM
 
