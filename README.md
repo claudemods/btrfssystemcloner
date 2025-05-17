@@ -30,8 +30,7 @@ cachyos btrfs subvolumes
 
 
   <div align="center">
-
-new btrfs mounts and arch-chroot being removed on arch have complicated this project please wait!
+this is a working project test with caution
 <div align="center">
 the squashfs command does not use compression and is only temporary whilst building the .img.xz
     
