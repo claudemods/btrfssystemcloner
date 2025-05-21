@@ -50,6 +50,11 @@ btrfs system cloner cachyos handheld uefi systemd-boot (this can be used on any 
 ![Screenshot_20250521_151332](https://github.com/user-attachments/assets/47ac2dc6-cf9f-430b-a8cd-ff9101ffa8c6)
 
 
+cloning process
+
+![Screenshot_20250521_153344](https://github.com/user-attachments/assets/12c6cb04-d54c-479c-9d3f-3b213ed117d8)
+
+
 
 why not test cachyos .img.xz extract and use virt-manager add it like a qcow2
 
