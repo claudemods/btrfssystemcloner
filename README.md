@@ -39,18 +39,17 @@ default btrfs cachyos subvolumes
 
 ![Screenshot_archlinux_2025-05-16_23:19:12](https://github.com/user-attachments/assets/de875338-0393-4231-a343-30dcad36a5d1)
 
+btrfs system cloner cachyos uefi grub (this can be used on any arch btrfs distro with uefi and grub)
 
-<div align="center">
-many tests done in last couple days to make this work
-  <div align="center">
-today in the uk  17:21pm 17-05-2025  its 90% done and boots and you can login
+![Screenshot_20250521_151332](https://github.com/user-attachments/assets/47ac2dc6-cf9f-430b-a8cd-ff9101ffa8c6)
 
 
 
-![Screenshot_archlinux-clone_2025-05-17_17:14:23](https://github.com/user-attachments/assets/7041c9fe-1759-47e8-bb6c-c1e698316ee4)
+btrfs system cloner cachyos handheld uefi systemd-boot (this can be used on any arch btrfs distro with uefi and systemd-boot)
 
-    
-![Screenshot_archlinux_2025-05-16_23:25:36](https://github.com/user-attachments/assets/23414c23-25b5-4de1-be6b-6027193d6a18)
+![Screenshot_20250521_151332](https://github.com/user-attachments/assets/47ac2dc6-cf9f-430b-a8cd-ff9101ffa8c6)
+
+
 
 why not test cachyos .img.xz extract and use virt-manager add it like a qcow2
 
