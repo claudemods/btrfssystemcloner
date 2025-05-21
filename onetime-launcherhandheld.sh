@@ -4,7 +4,7 @@
 git clone https://github.com/claudemods/btrfssystemcloner.git
 
 # Copy the whole damn folder to /opt
-cp -r btrfssystemcloner/place-in-opt/btrfssystemclonercachyoshandheld /opt
+cp -r btrfssystemcloner/place-in-opt/btrfssystemclonercachyoshandheld
 
 # Delete the original clone
 rm -rf btrfssystemcloner
