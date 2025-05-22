@@ -9,28 +9,28 @@ read -e -p "Enter path to .img file: " IMAGE_PATH
 LOOP_DEV=$(sudo losetup -f -P --show "$IMAGE_PATH")
 
 # Create mount points (EXACTLY as you want them)
-sudo mkdir -p /mnt/root
-sudo mkdir -p /mnt/root/boot/efi
+sudo mkdir -p /mnt
+sudo mkdir -p /mnt/boot/efi
 
 # Mount operations (EXACTLY as you specified)
-sudo mount -o subvol=@root "${LOOP_DEV}p2" /mnt/root || {
-    echo "ERROR: Failed to mount @root on ${LOOP_DEV}p2" >&2
+sudo mount -o subvol=@ "${LOOP_DEV}p2" /mnt || {
+    echo "ERROR: Failed to mount @ on ${LOOP_DEV}p2" >&2
     sudo losetup -d "$LOOP_DEV"
     exit 1
 }
 
-sudo mount "${LOOP_DEV}p1" /mnt/root/boot/efi || {
+sudo mount "${LOOP_DEV}p1" /mnt/boot/efi || {
     echo "ERROR: EFI mount failed on ${LOOP_DEV}p1" >&2
-    sudo umount /mnt/root
+    sudo umount /mnt
     sudo losetup -d "$LOOP_DEV"
     exit 1
 }
 
 # Bind mounts (ALL of them)
-sudo mount --bind /dev /mnt/root/dev
-sudo mount --bind /proc /mnt/root/proc
-sudo mount --bind /sys /mnt/root/sys
-sudo mount --bind /run /mnt/root/run
+sudo mount --bind /dev /mnt/dev
+sudo mount --bind /proc /mnt/proc
+sudo mount --bind /sys /mnt/sys
+sudo mount --bind /run /mnt/run
 
 # Chroot operations (EXACTLY as you want)
 sudo chroot /mnt/root
