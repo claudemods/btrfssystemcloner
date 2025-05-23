@@ -24,7 +24,7 @@ cyan_run cp -r btrfssystemcloner/btrfssystemcloner.png /opt/Arch-Systemtool
 
 
 cyan_run chmod +x /opt/btrfssystemcloner/btrfssystemclonercachyoshandheld
-cyan_run chmod +x /usr/share/applications/btrfssystemclonerhandheld.desktop
+cyan_run sudo chmod +x /usr/share/applications/btrfssystemclonerhandheld.desktop
 
 
 cyan_run rm -rf btrfssystemcloner
