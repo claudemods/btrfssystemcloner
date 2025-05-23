@@ -18,7 +18,7 @@ cp -r onetime-launcher.sh /opt/Arch-Systemtool
 
 cp -r btrfssystemcloner.desktop /usr/share/applications
 
-cp -r btrfssystemcloner.png 
+cp -r btrfssystemcloner.png /opt/Arch-Systemtool
 
 # Delete the original clone
 rm -rf btrfssystemcloner
