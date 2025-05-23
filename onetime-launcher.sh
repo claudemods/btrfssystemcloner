@@ -17,10 +17,10 @@ cyan_run sudo chown $USER /opt
 cyan_run mkdir /opt/Arch-Systemtool
 
 # setup application and place .desktop icon etc.....
-cyan_run cp -r btrfssystemcloner/place-in-opt/btrfssystemcloner /opt
-cyan_run cp -r btrfssystemcloner/onetime-launcher.sh /opt/Arch-Systemtool
+cyan_run sudo cp -r btrfssystemcloner/place-in-opt/btrfssystemcloner /opt
+cyan_run sudo cp -r btrfssystemcloner/onetime-launcher.sh /opt/Arch-Systemtool
 cyan_run sudo cp -r btrfssystemcloner/btrfssystemcloner.desktop /usr/share/applications
-cyan_run cp -r btrfssystemcloner/btrfssystemcloner.png /opt/Arch-Systemtool
+cyan_run sudo cp -r btrfssystemcloner/btrfssystemcloner.png /opt/Arch-Systemtool
 
 
 cyan_run chmod +x /opt/btrfssystemcloner/btrfssystemclonercachyos
