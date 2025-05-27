@@ -24,7 +24,7 @@ cachyos btrfs subvolumes
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
 
-[![Version](https://img.shields.io/github/v/release/claudemods/btrfssystemcloner?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/btrfssystemcloner/releases/tag/v1.04)
+[![Version](https://img.shields.io/github/v/release/claudemods/btrfssystemcloner?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/btrfssystemcloner/releases/tag/v1.04.1)
 
 
 
