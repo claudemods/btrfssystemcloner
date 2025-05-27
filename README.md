@@ -41,13 +41,15 @@ default btrfs cachyos subvolumes
 
 btrfs system cloner cachyos uefi grub (this can be used on any arch btrfs distro with uefi and grub)
 
-![Screenshot_20250521_151332](https://github.com/user-attachments/assets/47ac2dc6-cf9f-430b-a8cd-ff9101ffa8c6)
+![Screenshot_20250527_184404](https://github.com/user-attachments/assets/5ce216e4-ae84-4a82-b176-4f08bababf86)
+
 
 
 
 btrfs system cloner cachyos handheld uefi systemd-boot (this can be used on any arch btrfs distro with uefi and systemd-boot)
 
-![Screenshot_20250521_151332](https://github.com/user-attachments/assets/47ac2dc6-cf9f-430b-a8cd-ff9101ffa8c6)
+![Screenshot_20250527_192343](https://github.com/user-attachments/assets/5ee5500b-cba6-4d73-895c-337cf029cfb8)
+
 
 
 cloning process
