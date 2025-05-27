@@ -1,17 +1,5 @@
 
-new Uefi Systemd-Boot 1.04.1 coming 
-
-going to be testing now after reboot
-
-![Screenshot_20250527_192343](https://github.com/user-attachments/assets/058cc2db-1249-4267-b172-7d55f572cd56)
-
-
-
-
-
-
-
-
+new Uefi Systemd-Boot 1.04.1 tested and working 27/07/2025
 
 
 testing 1.04.1 Uefi Grub works 27/05/2025
