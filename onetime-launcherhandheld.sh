@@ -10,9 +10,6 @@ cyan_run() {
 # Clone the repo into projects directory
 cyan_run git clone https://github.com/claudemods/btrfssystemcloner.git
 
-# set opt directory to be user owned
-cyan_run sudo chown $USER /opt
-
 # make the needed folders
 cyan_run mkdir /opt/Arch-Systemtool
 
