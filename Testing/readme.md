@@ -2,7 +2,7 @@
 30-05-2025
 current main branch release works but final checksum for .img.xz dont work
 
-this new file currently in testing contains new compression methods more to test and fix
+this new file currently in testing contains new zstd level 15 compression method  more to test and fix
 
 
 
