@@ -1,4 +1,12 @@
 
+30-05-2025
+current main branch release works but final checksum for .img.xz dontwork
+this new file currently in testing contains new compression methods more to test and fix
+
+
+
+
+
 new Uefi Systemd-Boot 1.04.1 tested and working 27/07/2025
 
 
