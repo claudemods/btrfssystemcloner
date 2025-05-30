@@ -4,7 +4,7 @@
 
 <h1 align="center">(Btrfs System Cloner)</h1>
 
-<strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a bootable uefi .img disk with grub or systemd-boot<strong>
+<strong>tool to clone your btrfs arch system as it is with your subvolumes and user files into a zstd compressed bootable uefi .img disk with grub or systemd-boot<strong>
 
 <div align="center">
 cachyos btrfs subvolumes
