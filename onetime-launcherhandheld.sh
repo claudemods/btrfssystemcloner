@@ -22,7 +22,7 @@ cyan_run sudo cp -r btrfssystemcloner/btrfssystemcloner.png /opt/Arch-Systemtool
 
 cyan_run sudo chmod +x /opt/btrfssystemcloner/btrfssystemclonercachyoshandheld
 cyan_run sudo chmod +x /usr/share/applications/btrfssystemclonerhandheld.desktop
-
+cyan_run sudo chmod +x /opt/Arch-Systemtool/btrfssystemcloner/onetime-launcherhandheld.sh
 
 cyan_run rm -rf btrfssystemcloner
 
