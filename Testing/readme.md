@@ -2,11 +2,15 @@
 
 
 
-31-05-2025 v1.04.2
+31-05-2025 v1.04.3
 
-ubuntu support being tested so far failed with snap error maybe have to clone without snap installed will test more
+my code is being rewritten to support a new layout for multi distribution support
 
-fedora support being tested code should work
-as it was coded to support fedora uefi systemd-boot will see after a test
+it wont be hard most of it is already written this ofcourse is rolling release software
 
+things can and will change 
+
+so far from ubuntu and fedora tests snap cannot be installed 
+
+new features coming set size of .img and after .img generation it will ask if you want to resize to have only 10% extra of .img
 
