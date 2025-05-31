@@ -1,5 +1,11 @@
 
 
+fedora uefi grub
+
+![Screenshot_archlinux-clone2_2025-05-31_13:03:41](https://github.com/user-attachments/assets/7dff5ce3-d297-4f92-aa73-a4d1560be5fc)
+
+
+
 btrfs system cloner debian and ubuntu uefi grub
 
 ![Screenshot_archlinux-clone2_2025-05-31_08:56:00](https://github.com/user-attachments/assets/141125af-a7a9-48c1-9bee-8aa99f484cff)
