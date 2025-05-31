@@ -1,6 +1,12 @@
 
+
+
+
 31-05-2025 v1.04.2
-everything fixed new features can be seen in releases
+ubuntu support being tested so far failed with snap error maybe have to clone without snapd installed
+
+fedora support being tested code should work
+as it was coded to support fedora will test
 
 
 
