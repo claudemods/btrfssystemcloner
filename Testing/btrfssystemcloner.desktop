@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=/home/Btrfsclonerlauncher/onetime-launcher.sh
+GenericName[en_GB]=system app script
+GenericName=system app script
+Icon=/opt/Arch-Systemtool/btrfssystemcloner.png
+MimeType=
+Name[en_GB]=btrfssystemcloner
+Name=btrfssystemcloner
+NoDisplay=false
+Path=/opt/Arch-Systemtool/
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=\s--noclose
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
