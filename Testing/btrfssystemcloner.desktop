@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=/home/Btrfsclonerlauncher/onetime-launcher.sh
+Exec=/home/btrfsclonerlauncher/onetime-launcher.sh
 GenericName[en_GB]=system app script
 GenericName=system app script
 Icon=/opt/Arch-Systemtool/btrfssystemcloner.png
@@ -8,7 +8,7 @@ MimeType=
 Name[en_GB]=btrfssystemcloner
 Name=btrfssystemcloner
 NoDisplay=false
-Path=/opt/Arch-Systemtool/
+Path=/home/btrfssystemcloner/
 PrefersNonDefaultGPU=false
 StartupNotify=true
 Terminal=true
