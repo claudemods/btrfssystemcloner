@@ -1,6 +1,6 @@
 
 
-btrfs system cloner ubuntu uefi grub
+btrfs system cloner debian and ubuntu uefi grub
 
 ![Screenshot_archlinux-clone2_2025-05-31_08:56:00](https://github.com/user-attachments/assets/141125af-a7a9-48c1-9bee-8aa99f484cff)
 
