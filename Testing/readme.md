@@ -12,5 +12,5 @@ things can and will change
 
 so far from ubuntu and fedora tests snap cannot be installed 
 
-new features coming set size of .img and after .img generation it will ask if you want to resize to have only 10% extra of .img
+new features coming set size of .img and after .img generation it will ask if you want to resize to have only 10% extra of the .img size
 
