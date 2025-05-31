@@ -3,6 +3,7 @@
 
 
 31-05-2025 v1.04.2
+
 ubuntu support being tested so far failed with snap error maybe have to clone without snapd installed will test more
 
 fedora support being tested code should work
