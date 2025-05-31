@@ -6,7 +6,7 @@
 ubuntu support being tested so far failed with snap error maybe have to clone without snapd installed
 
 fedora support being tested code should work
-as it was coded to support fedora will test
+as it was coded to support fedora uefi systemd-boot will test
 
 
 
