@@ -11,7 +11,7 @@ both uefi grub and uefi systemd-boot files use the same method and will work fro
 
 once im finished testing i will release the updates of my arch variants (v1.04.2)
 
-im also currently testing ubuntu the code was changed but never test so please wait
+im also currently testing ubuntu the code was changed but never tested so please wait
 
 as for fedora i need to recode to install a boot loader more to test........
 
