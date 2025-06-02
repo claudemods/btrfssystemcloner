@@ -17,6 +17,10 @@ as for fedora i need to recode to install a boot loader more to test........
 
 
 
+
+
+
+
 31-05-2025 v1.04.3
 
 my code is being rewritten to support a new layout for multi distribution support
