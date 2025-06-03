@@ -8,7 +8,7 @@ cyan_run() {
 }
 
 # Clone the repo into projects directory
-cyan_run git clone https://github.com/claudemods/btrfssystemcloner.git
+cyan_run sudo git clone https://github.com/claudemods/btrfssystemcloner.git
 
 
 # make the needed folders
@@ -26,7 +26,7 @@ cyan_run sudo chmod +x /usr/share/applications/btrfssystemclonerhandheld.desktop
 cyan_run sudo chmod +x /opt/Arch-Systemtool/onetime-launcherhandheld.sh
 
 
-cyan_run rm -rf btrfssystemcloner
+cyan_run sudo rm -rf btrfssystemcloner
 
 # Run the command
 echo -ne "\033[38;2;0;255;255m"
