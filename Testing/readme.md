@@ -9,6 +9,8 @@ new method to copy boot partition using dd
 
 new method to generate fstab added currently being tested 
 
+all test and working fine im going to test generated .img and then test my new methods on kde neon and fedora
+
 
 ![Screenshot_20250616_050813](https://github.com/user-attachments/assets/4149056e-7106-4c0c-9451-0db214661fdb)
 
