@@ -12,6 +12,9 @@ new method to generate fstab added currently being tested
 
 ![Screenshot_20250616_050813](https://github.com/user-attachments/assets/4149056e-7106-4c0c-9451-0db214661fdb)
 
+![Screenshot_20250616_081202](https://github.com/user-attachments/assets/5142ea1b-370a-48af-8eaf-5a5808b5afdb)
+
+
 
 02-06-2025 v1.04.2-v1.04.3
 
