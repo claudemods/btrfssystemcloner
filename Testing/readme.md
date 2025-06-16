@@ -1,4 +1,12 @@
 
+16-06-2025
+new methods written in c++ being tested 
+option to not compress added
+new dd boot partition added
+new method to generate fstab added currenly being tested 
+![Screenshot_20250616_050813](https://github.com/user-attachments/assets/4149056e-7106-4c0c-9451-0db214661fdb)
+
+
 02-06-2025 v1.04.2-v1.04.3
 
 
