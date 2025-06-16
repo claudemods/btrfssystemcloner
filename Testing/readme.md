@@ -5,7 +5,7 @@ new methods written in c++ being tested
 
 option to not compress added
 
-new method to copy partition using dd
+new method to copy boot partition using dd
 
 new method to generate fstab added currently being tested 
 
