@@ -3,7 +3,7 @@ v1.04.2 18-06-2025
 
 from further tests trying to get cachyos's handheld edition's system into a btrfs compressed .img
 
-evan with correct uuids in fstab and systemd-boot files it still will not boot
+evan with correct uuids in fstab and systemd-boot files it still will not boot after artwork
 
 maybe theres files for steam that use uuids i will look and see but for now 
 
