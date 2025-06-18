@@ -1,5 +1,5 @@
 
-v1.04.2 18-06-2025 
+v1.04.2-v1.04.3 18-06-2025 
 
 from further tests trying to get cachyos's handheld edition's system into a btrfs compressed .img
 
@@ -9,30 +9,14 @@ maybe theres files for steam that use uuids i will look and see but for now
 
 im stuck and cannot find a fix for cachyos handheld edition so im unable to compress the system from around 15gb to say 10gb
 
+features in the new btrfssystemclonerc++ include:
 
+boot directory now gets dd over and then i simply just update the .confs with command e.g grub-mkconfig -o ......
 
-02-06-2025 v1.04.2-v1.04.3
+set .img size by number e.g 11 = 11gb
 
+setup for grub/systemd-boot grub was working last update systemd-boot is broken due to uuid mismatches in /boot .confs
 
-im also currently testing ubuntu the code was changed but never tested so please wait
+option to compression or not compress the .img
 
-as for fedora i need to recode to install a boot loader more to test........
-
-
-
-
-
-
-
-31-05-2025 v1.04.3
-
-my code is being rewritten to support a new layout for multi distribution support
-
-it wont be hard most of it is already written this ofcourse is rolling release software
-
-things can and will change 
-
-so far from ubuntu and fedora tests snap cannot be installed 
-
-new features coming set size of .img and after .img generation it will ask if you want to resize to have only 10% extra of the .img size
-
+and the checksums will automatically generate for .img and .img.xz depending on the option given
