@@ -1,20 +1,13 @@
 
-v1.04.2 16-06-2025 
+v1.04.2 18-06-2025 
 
-new methods written in c++ being tested 
+from further tests trying to get cachyos's handheld edition's system into a btrfs compressed .img
 
-option to not compress added
+evan with correct uuids in fstab and systemd-boot files it still will not boot
 
-new method to copy boot partition using dd
+maybe theres files for steam that use uuids i will look and see but for now 
 
-new method to generate fstab added currently being tested 
-
-all tested and working fine from output im going to test generated .img and then test my new methods on kde neon and fedora
-
-
-![Screenshot_20250616_050813](https://github.com/user-attachments/assets/4149056e-7106-4c0c-9451-0db214661fdb)
-
-![Screenshot_20250616_081202](https://github.com/user-attachments/assets/5142ea1b-370a-48af-8eaf-5a5808b5afdb)
+im stuck and cannot find a fix for cachyos handheld edition so im unable to compress the system from around 15gb to say 10gb
 
 
 
