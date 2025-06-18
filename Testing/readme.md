@@ -18,7 +18,7 @@ v1.04.2 btrfssystemclonerc++
 
 features in the new btrfssystemclonerc++ include:
 
-support for drives  /dev/sdxx, /dev/nvme0n1xx, /dev/mmcblk0xx
+support for drives  /dev/sdxx, /dev/nvme0n1xx, /dev/mmcblk0xx and added fstab generation
 
 boot directory now gets dd over and then i simply just update the .confs with command e.g grub-mkconfig -o ......
 
