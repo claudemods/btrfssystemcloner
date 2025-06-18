@@ -9,6 +9,9 @@ maybe theres files for steam that use uuids i will look and see but for now
 
 im stuck and cannot find a fix for cachyos handheld edition so im unable to compress the system from around 15gb to say 10gb
 
+
+v1.04.2 btrfssystemclonerc++
+
 features in the new btrfssystemclonerc++ include:
 
 support for drives  /dev/sdxx, /dev/nvme0n1xx, /dev/mmcblk0xx
