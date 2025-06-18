@@ -9,6 +9,10 @@ maybe theres files for steam that use uuids i will look and see but for now
 
 im stuck and cannot find a fix for cachyos handheld edition so im unable to compress the system from around 15gb to say 10gb
 
+with 1 fault being an ongoing issue and the aim to support holoiso/steamos i will keep trying fedora/ubuntu/holoiso
+
+whilst i search files and open source my ubuntu iso creator
+
 
 v1.04.2 btrfssystemclonerc++
 
