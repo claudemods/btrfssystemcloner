@@ -11,11 +11,13 @@ im stuck and cannot find a fix for cachyos handheld edition so im unable to comp
 
 features in the new btrfssystemclonerc++ include:
 
+support for drives  /dev/sdxx, /dev/nvme0n1xx, /dev/mmcblk0xx
+
 boot directory now gets dd over and then i simply just update the .confs with command e.g grub-mkconfig -o ......
 
 set .img size by number e.g 11 = 11gb
 
-setup for grub/systemd-boot grub was working last update systemd-boot is broken due to uuid mismatches in /boot .confs
+setup for grub/systemd-boot grub works fine from last channges however systemd-boot is broken due to wrong uuids in /boot .confs
 
 option to compression or not compress the .img
 
