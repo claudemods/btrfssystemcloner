@@ -30,7 +30,7 @@ cachyos btrfs subvolumes
 
 
   <div align="center">
-this is a working project test with caution
+this is a working project test with caution please create btrfssystemcloner in /opt and place compiled binary for your system before executing
 <div align="center">
 the squashfs command does not use compression and is only temporary whilst building the .img.xz
 
