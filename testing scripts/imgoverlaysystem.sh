@@ -11,25 +11,29 @@ IMAGE_PATH="/path/to/your/specific/image.img"
 LOOP_DEV=$(sudo losetup -f -P --show "$IMAGE_PATH")
 
 # Create mount points
-sudo mkdir -p /mnt/img_root
-sudo mkdir -p /mnt/img_root/boot/efi
+sudo mkdir -p /mnt/primary
+sudo mkdir -p /mnt/primary/boot/efi
 
 # Mount operations
-sudo mount -o subvol=@ "${LOOP_DEV}p2" /mnt/img_root || {
+sudo mount -o subvol=@ "${LOOP_DEV}p2" /mnt/primary || {
     echo "ERROR: Failed to mount @ on ${LOOP_DEV}p2" >&2
     sudo losetup -d "$LOOP_DEV"
     exit 1
 }
 
-sudo mount "${LOOP_DEV}p1" /mnt/img_root/boot/efi || {
+sudo mount "${LOOP_DEV}p1" /mnt/primary/boot/efi || {
     echo "ERROR: EFI mount failed on ${LOOP_DEV}p1" >&2
-    sudo umount /mnt/img_root
+    sudo umount /mnt/primary
     sudo losetup -d "$LOOP_DEV"
     exit 1
 }
 
-# Create a symlink in your home directory instead of root
-mkdir -p ~/mounted_image
-ln -s /mnt/img_root ~/mounted_image/root
+# Bind mounts (ALL of them)
+sudo mount --bind /dev /mnt/dev
+sudo mount --bind /proc /mnt/proc
+sudo mount --bind /sys /mnt/sys
+sudo mount --bind /run /mnt/run
+sudo mount --bind /dev/pts /mnt/dev/pts
 
-echo "Access the mounted image at ~/mounted_image/root"
+# Create a symlink in your home directory instead of root
+ln -s /mnt/primary /
